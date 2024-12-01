@@ -15,6 +15,11 @@
 6. Use Maven to install dependencies by running `mvn clean install` in the terminal.
 7. Start the application by running the main class (e.g., `PropertyManagementApplication.java`).
 
+Entity Relationship Diagram With Followed By Entities 
+
+![ERDiagram](https://github.com/user-attachments/assets/ab874d8c-44f3-4c00-8fb5-79fea423043f)
+
+
 
 For Database Use Below Constraints. (If ORM not Worked)
 
