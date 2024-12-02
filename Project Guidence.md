@@ -70,7 +70,7 @@ Running Instructions
 3. Use Postman or any API client to test the endpoints.
 4. Example base URL: `http://localhost:8080`
 
-API Usage
+API Usage for example purpose only.you can add realtime data too
 AuthController
 Base URL:** / auth**`
 
