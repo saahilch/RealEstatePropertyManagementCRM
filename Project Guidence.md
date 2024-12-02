@@ -8,11 +8,7 @@ After Downloding the zip file Extract it & Follow Below Steps To Get The Results
 4. Import the project into your IDE ( Eclips or STS).
 5. Configure your database connection in the `application.properties` file, for example:
 
-    spring.datasource.url=jdbc:mysql://localhost:3306/ 
-    spring.datasource.username=root
-    spring.datasource.password=root123
-    spring.jpa.hibernate.ddl-auto=update
-    spring.jpa.show-sql=true
+    spring.datasource.url=jdbc:mysql://localhost:3306/RealEstatePropertyManagementCRM?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true
 
 6. Use Maven to install dependencies by running `mvn clean install` in the terminal.
 7. Start the application by running the main class (e.g., `PropertyManagementApplication.java`).
