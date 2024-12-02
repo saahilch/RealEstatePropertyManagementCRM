@@ -1,4 +1,6 @@
 **RealEstatePropertyManagementCRM**
+**Note-To Dowlode The Project Click On Zip file The Click in View Row The Zip Will Automatically Downloded.******
+After Downloding the zip file Extract it & Follow Below Steps To Get The Results..
 
 1. Ensure you have JDK 11 or later installed on your machine.
 2. Install Maven for dependency management.
