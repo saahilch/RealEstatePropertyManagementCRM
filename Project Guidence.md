@@ -5,7 +5,7 @@ After Downloding the zip file Extract it & Follow Below Steps To Get The Results
 1. Ensure you have JDK 11 or later installed on your machine.
 2. Install Maven for dependency management.
 3. Clone the project repository or download the project files.
-4. Import the project into your IDE (e.g., IntelliJ IDEA, Eclipse, or STS).
+4. Import the project into your IDE ( Eclips or STS).
 5. Configure your database connection in the `application.properties` file, for example:
 
     spring.datasource.url=jdbc:mysql://localhost:3306/ 
